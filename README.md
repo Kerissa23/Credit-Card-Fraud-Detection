@@ -53,6 +53,7 @@ To run this project, follow these steps:
   The API will be available at http://127.0.0.1:5000/predict.
 
 ## File Structure
+```graphql
 credit-card-fraud-detection/
 │
 ├── data/
