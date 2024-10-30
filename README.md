@@ -34,5 +34,5 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kerissa23/credit-card-fraud-detection.git
+   git clone https://github.com/Kerissa23/Credit-Card-Fraud-Detection.git
    cd credit-card-fraud-detection
