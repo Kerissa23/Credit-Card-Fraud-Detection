@@ -29,7 +29,7 @@ This project implements a Credit Card Fraud Detection system using machine learn
 - Matplotlib and Seaborn (for visualizations)
 
 ## Dataset
-The dataset used in this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/dalpozz/creditcard-fraud) from Kaggle. The dataset contains transactions made by credit cards in September 2013 by European cardholders, where the positive class (fraudulent transactions) is a minority class.
+The dataset used in this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle. The dataset contains transactions made by credit cards in September 2013 by European cardholders, where the positive class (fraudulent transactions) is a minority class.
 
 ## Installation
 To run this project, follow these steps:
