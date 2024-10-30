@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 ## Overview
-This project implements a Credit Card Fraud Detection system using machine learning techniques. The system identifies fraudulent transactions by analyzing transaction data and applying a Random Forest classifier. It uses techniques like outlier detection and class balancing to improve the model's performance.
+This project implements a Credit Card Fraud Detection system using machine learning techniques. The system identifies fraudulent transactions by analyzing transaction data and applying a Random Forest classifier. It uses techniques like class balancing to improve the model's performance.
 
 ## Table of Contents
 - [Features](#features)
